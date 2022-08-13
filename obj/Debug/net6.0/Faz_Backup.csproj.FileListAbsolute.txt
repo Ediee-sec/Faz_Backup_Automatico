@@ -1,0 +1,15 @@
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\bin\Debug\net6.0\Faz_Backup.exe
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\bin\Debug\net6.0\Faz_Backup.deps.json
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\bin\Debug\net6.0\Faz_Backup.runtimeconfig.json
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\bin\Debug\net6.0\Faz_Backup.dll
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\bin\Debug\net6.0\Faz_Backup.pdb
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\obj\Debug\net6.0\Faz_Backup.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\obj\Debug\net6.0\Faz_Backup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\obj\Debug\net6.0\Faz_Backup.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\obj\Debug\net6.0\Faz_Backup.AssemblyInfo.cs
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\obj\Debug\net6.0\Faz_Backup.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\obj\Debug\net6.0\Faz_Backup.dll
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\obj\Debug\net6.0\refint\Faz_Backup.dll
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\obj\Debug\net6.0\Faz_Backup.pdb
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\obj\Debug\net6.0\Faz_Backup.genruntimeconfig.cache
+C:\Users\T-Gamer\Documents\C#\Faz_Backup\obj\Debug\net6.0\ref\Faz_Backup.dll
